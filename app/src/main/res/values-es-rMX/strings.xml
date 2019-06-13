@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ojos en la calle</string>
+    <string name="about">Acerca de Nosotros</string>
+    <string name="eyes_on_the_street_is_a_crowdsourcing_application_where_users_report_crime_perceived_danger_and_suspicious_activities_to_enhance_their_daily_commuting_alternatives">Eyes on the street es una aplicación de crowdsourcing donde los usuarios informan sobre delitos, peligros percibidos y actividades sospechosas para mejorar sus alternativas de transporte diario..</string>
+    <string name="version_1_0">Versión 1.0</string>
+    <string name="developers">Desarrolladores:</string>
+    <string name="instructions">Instrucciones</string>
+    <string name="step_1_if_you_are_in_trouble_the_only_thing_you_have_to_do_is_press_the_button_to_ask_for_help_and_the_button_will_send_an_alert_to_someone_in_the_faculty_displaying_your_real_location_and_your_information_that_way_you_will_receive_help_as_soon_as_possible">Paso 1: Si está en problemas, lo único que debe hacer es PULSAR EL BOTÓN para pedir ayuda y el botón enviará una alerta a alguien en la facultad que muestre su ubicación en tiempo real y su información, de esa manera recibirá ayuda tan pronto posible.</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="log_in">Iniciar Sesión</string>
+    <string name="not_registered_register_here">   ¿No registrado? ¡Registrate aquí!</string>
+    <string name="if_you_need_help_press_the_button">Si necesita ayuda, presione el boton!</string>
+    <string name="welcome">Bienvenido!</string>
+    <string name="points_earned">Puntos obtenidos:</string>
+    <string name="points_earned_hint">Puntos obtenidos</string>
+    <string name="name">Nombre:</string>
+    <string name="name_hint">Nombre</string>
+    <string name="username_profile">Usuario:</string>
+    <string name="username_hint_profile">Usuario</string>
+    <string name="gender">Genero:</string>
+    <string name="gender_hint">Genero</string>
+    <string name="date_of_birth">Fecha De Nacimiento:</string>
+    <string name="mm_dd_yyyy">MM/DD/AAAA</string>
+    <string name="home">Inicio</string>
+    <string name="insert_the_following_information">Inserta la siguiente informacion</string>
+    <string name="add_name">Agregar Nombre</string>
+    <string name="name_hint_reg">Nombre</string>
+    <string name="add_last_name">Agregar apellido</string>
+    <string name="last_name_register">Apellido</string>
+    <string name="date_of_birth_reg">Fecha De Nacimiento</string>
+    <string name="mm_dd_yyy_reg">MM/DD/AAAA</string>
+    <string name="select_gender_reg">Seleccionar genero</string>
+    <string name="male">Masculino</string>
+    <string name="female">Femenino</string>
+    <string name="other">Otro</string>
+    <string name="i_wish_not_to_disclose">No deseo contestar</string>
+    <string name="provide_a_username">Proporcionar un nombre de usuario</string>
+    <string name="username_hint_register">Usuario</string>
+    <string name="provide_a_password">Proporcionar Contraseña</string>
+    <string name="password_hint_register">Contraseña</string>
+    <string name="provide_same_password">Proporcionar misma contraseña</string>
+    <string name="confirm_password_reg">Contraseña</string>
+    <string name="log_in_register">Iniciar Sesión</string>
+    <string name="already_registered_click_here">  ¿Ya registrado? presione aquí!</string>
+    <string name="thank_you">Gracias!</string>
+    <string name="report_submitted">Reporte enviado</string>
+    <string name="someone_is_on_coming_to_assist_you">Alguien esta en camino para ayudar.</string>
+    <string name="you_are_here">Estás aquí:</string>
+    <string name="profile_menu">Perfil</string>
+    <string name="instructions_menu">Instrucciones</string>
+    <string name="about_menu">Acerca de</string>
+    <string name="exit_menu">Salir</string>
+
+
+    <string name="title_activity_view_m">Mapa</string>
+    <string name="from_the_categories_below_select_appropiate_incident">De las categorías a continuación, seleccione el incidente apropiado</string>
+    <string name="other_reason">Otro:</string>
+    <string name="comments_reort">Comentarios:</string>
+    <string name="submit_report">Enviar</string>
+    <string name="take_picture">Tomar foto</string>
+    <string name="criminal_activity">Actividad criminal</string>
+    <string name="perceived_danger">Peligro percibido</string>
+    <string name="suspicious_circumstances">Circunstancias sospechosas</string>
+    <string name="you_selected">Has seleccionado:</string>
+    <string name="get_current_location">Obtener ubicación actual</string>
+    <string name="enter_location_manually">Introduzca la ubicación manualmente</string>
+    <string name="create_report">Crear reporte</string>
+    <string name="take_picture_proof">Tomar foto!</string>
+    <string name="submit_pic">Enviar</string>
+    <string name="report_submitted_2">Reporte enviado</string>
+    <string name="thank_you_submit">Gracias!</string>
+    <string name="you_are_here_2">Estás aquí:</string>
+    <string name="confirm_location">Confirmar ubicación</string>
+    <string name="if_incident_occurred_at_displayed_location_confirm_else_manually_select_location">Si el incidente ocurrió en la ubicación mostrada, por favor confirme. de lo contrario, seleccione manualmente la ubicación</string>
+    <string name="address_will_appear_shortly">La dirección aparecerá en breve</string>
+    <string name="you_are_here_display">Estás aquí:</string>
+    <string name="edit_location_display">Editar ubicación</string>
+    <string name="confirm_location_2">Confirmar ubicación</string>
+    <string name="address">Dirección:</string>
+
+
+    <string-array name="cat1">
+        <item>Seleccionar</item>
+        <item>Robo</item>
+        <item>Acoso</item>
+        <item>Asalto</item>
+        <item>Robo, asalto, robo a casa-habitacion</item>
+        <item>Homicidio</item>
+        <item>Robo de autos</item>
+        <item>Destrucción de propiedad</item>
+        <item>Secuestro</item>
+        <item>Atropello</item>
+    </string-array>
+
+    <string-array name="cat2">
+        <item>Seleccionar</item>
+        <item>Vandalismo</item>
+        <item>Problema civil</item>
+        <item>Iluminación</item>
+        <item>Mantenimiento de áreas públicas</item>
+        <item>Grafiti</item>
+        <item>Relacionado al alcohol</item>
+    </string-array>
+
+    <string-array name="cat3">
+    <item>Seleccionar</item>
+    <item>Drogas / Narcóticos</item>
+    <item>Vehículo estacionado en ubicación extraña</item>
+    <item>Paquete / equipaje desatendido</item>
+    <item>Alguien presta atención inusual a las instalaciones.</item>
+    </string-array>
+    <string name="confirm_loc">Confirmar</string>
+    <string name="toast_name">El nombre y el apellido deben contener solo letras</string>
+    <string name="toast_password">Contraseña no coincidente</string>
+    <string name="toast_empty">Hay un campo vacio</string>
+    <string name="enable">Por favor habilite GPS e Internet</string>
+
+
+</resources>

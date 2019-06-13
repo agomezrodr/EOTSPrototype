@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:background="#000"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/textView0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/instructions"
+        android:textColor="#fff"
+        android:textSize="38dp" />
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:textColor="#FF0000"
+        android:gravity="center"
+        android:text="@string/step_1_if_you_are_in_trouble_the_only_thing_you_have_to_do_is_press_the_button_to_ask_for_help_and_the_button_will_send_an_alert_to_someone_in_the_faculty_displaying_your_real_location_and_your_information_that_way_you_will_receive_help_as_soon_as_possible"
+        android:textSize="35dp" />
+
+
+</LinearLayout>
